@@ -1,5 +1,5 @@
 # cvsweb-extract
-Extract file trees from CVSweb mirrors
+_Extract file trees from CVSweb mirrors_
 
 Politely scrape archive.org's CVSweb mirror of oss.sgi.com.  Currently, only the latest version of each file is downloaded.
 
